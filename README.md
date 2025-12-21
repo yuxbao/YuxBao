@@ -119,7 +119,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=YuxBao&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=YuxBao&theme=flat&no-frame=true&margin-w=10&column=6" />
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=YuxBao&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
 </picture>
 </div>
 
