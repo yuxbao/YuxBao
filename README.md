@@ -29,28 +29,28 @@
   <!-- 🌸 Blog -->
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://img.shields.io/badge/Blog-%F0%9F%8C%B8%20yux--bao.site-ffbde6?style=flat&logo=vercel&logoColor=white&labelColor=363a4f&color=f5c2e7" />
+            srcset="https://img.shields.io/badge/Blog-%F0%9F%8C%B8%20yux--bao.icu-ffbde6?style=flat&logo=vercel&logoColor=white&labelColor=363a4f&color=f5c2e7" />
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://img.shields.io/badge/Blog-%F0%9F%8C%B8%20yux--bao.site-fff0f6?style=flat&logo=vercel&logoColor=black&labelColor=f2f2f2&color=ffbde6" />
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-%F0%9F%8C%B8%20yux--bao.site-ffbde6?style=flat&logo=vercel&logoColor=white&labelColor=363a4f&color=f5c2e7" style="margin:4px;" />
+            srcset="https://img.shields.io/badge/Blog-%F0%9F%8C%B8%20yux--bao.icu-fff0f6?style=flat&logo=vercel&logoColor=black&labelColor=f2f2f2&color=ffbde6" />
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-%F0%9F%8C%B8%20yux--bao.icu-ffbde6?style=flat&logo=vercel&logoColor=white&labelColor=363a4f&color=f5c2e7" style="margin:4px;" />
   </picture>
 
   <!-- 🍀 Email -->
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://img.shields.io/badge/Mail-%F0%9F%8C%80%20i@yux--bao.site-8bd5ca?style=flat&logo=gmail&logoColor=white&labelColor=363a4f&color=8bd5ca" />
+            srcset="https://img.shields.io/badge/Mail-%F0%9F%8C%80%20i@yux--bao.icu-8bd5ca?style=flat&logo=gmail&logoColor=white&labelColor=363a4f&color=8bd5ca" />
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://img.shields.io/badge/Mail-%F0%9F%8C%80%20i@yux--bao.site-eafaf7?style=flat&logo=gmail&logoColor=black&labelColor=f2f2f2&color=a6e3d4" />
-    <img alt="Email" src="https://img.shields.io/badge/Mail-%F0%9F%8C%80%20i@yux--bao.site-8bd5ca?style=flat&logo=gmail&logoColor=white&labelColor=363a4f&color=8bd5ca" style="margin:4px;" />
+            srcset="https://img.shields.io/badge/Mail-%F0%9F%8C%80%20i@yux--bao.icu-eafaf7?style=flat&logo=gmail&logoColor=black&labelColor=f2f2f2&color=a6e3d4" />
+    <img alt="Email" src="https://img.shields.io/badge/Mail-%F0%9F%8C%80%20i@yux--bao.icu-8bd5ca?style=flat&logo=gmail&logoColor=white&labelColor=363a4f&color=8bd5ca" style="margin:4px;" />
   </picture>
 
   <!-- 🎓 CS -->
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://img.shields.io/badge/CS@SHU-%F0%9F%8E%93-89b4fa?style=flat&logo=bookstack&logoColor=white&labelColor=363a4f&color=89b4fa" />
+            srcset="https://img.shields.io/badge/CS@HKU-%F0%9F%8E%93-89b4fa?style=flat&logo=bookstack&logoColor=white&labelColor=363a4f&color=89b4fa" />
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://img.shields.io/badge/CS@SHU-%F0%9F%8E%93-e6f0ff?style=flat&logo=bookstack&logoColor=black&labelColor=f2f2f2&color=aed0ff" />
-    <img alt="CS @ SHU" src="https://img.shields.io/badge/CS@SHU-%F0%9F%8E%93-89b4fa?style=flat&logo=bookstack&logoColor=white&labelColor=363a4f&color=89b4fa" style="margin:4px;" />
+            srcset="https://img.shields.io/badge/CS@HKU-%F0%9F%8E%93-e6f0ff?style=flat&logo=bookstack&logoColor=black&labelColor=f2f2f2&color=aed0ff" />
+    <img alt="CS SHU&HKU" src="https://img.shields.io/badge/CS SHU&HKU-%F0%9F%8E%93-89b4fa?style=flat&logo=bookstack&logoColor=white&labelColor=363a4f&color=89b4fa" style="margin:4px;" />
   </picture>
 
   <!-- 💻 FullStack -->
